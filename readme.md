@@ -8,6 +8,3 @@ Collection of my lab files from [Dr Chris Meudec](http://www.echancrure.eu/)'s *
 
 ![Carlow International College of Technology](https://cict.hnuahe.edu.cn/dfiles/11384/images/logo.jpg)
 
-![South East Technological University](http://www.echancrure.eu/images/SETULogoRGB.png)
-
-![Department of Computing](http://www.echancrure.eu/images/DoC_rect_logo_bg-trans_resized.png)
