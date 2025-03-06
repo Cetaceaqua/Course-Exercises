@@ -27,6 +27,10 @@ void reverse_sentence(char sentence[]) {
 	for (int i = 0; i <= len; i++) {
 		if (sentence[i] == ' ' || sentence[i] == '\0') {
 			reverse(sentence + start, i - start);
+			/*
+				"sentence + start" is equivalent to "&sentence[start]",
+				since an array name acts as a pointer to its first element.
+			*/
 			start = i + 1;
 		}
 	}
